@@ -18,6 +18,6 @@
   "homepage": "https://github.com/tarlepp/unibot-fakerjs",
   "dependencies": {
     "faker": "2.1.5",
-    "lodash": "3.9.3"
+    "lodash": "4.17.21"
   }
 }
